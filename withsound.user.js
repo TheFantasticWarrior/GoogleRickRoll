@@ -3,7 +3,7 @@
 // @namespace     https://github.com/TheFantasticWarrior/GoogleRickRoll
 // @description	  You thought it was google, but it was I Rick Astley
 // @author        TFW
-// @include       *.google.com*/*
+// @include       *.google.*
 // @run-at        document-start
 // @version       69.420
 // ==/UserScript==
