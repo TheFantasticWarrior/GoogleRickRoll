@@ -61,7 +61,7 @@
     }
     //var rick =document.createElement("div");
     //rick.style="top:100;right:50%;z-index:420;position:absolute;";
-    var audio = new Audio("https://raw.githubusercontent.com/TheFantasticWarrior/GoogleRickRoll/full-audio/Rick%20Astley%20-%20Never%20Gonna%20Give%20You%20Up%20(Video)-dQw4w9WgXcQ.m4a");
+    var audio = new Audio("https://raw.githubusercontent.com/TheFantasticWarrior/GoogleRickRoll/Rick%20Astley%20-%20Never%20Gonna%20Give%20You%20Up%20(Video)-dQw4w9WgXcQ.m4a");
     audio.loop=true;
     //var sound=document.createElement("button");
     //sound.innerHTML="Sound On";
